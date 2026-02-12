@@ -130,3 +130,5 @@ The Snake Game project successfully demonstrates how C++ can be used for graphic
 The inclusion of sound effects and increasing difficulty levels makes the game interactive and engaging. This project not only fulfills the academic requirement of creating a graphical application but also provides hands-on experience in real-time game development.
 
 Overall, the project enhances understanding of compiler-based languages, memory management, and graphics programming while delivering a visually appealing and functional game application.
+
+![Image](https://github.com/user-attachments/assets/0c424efd-5070-49cc-806e-9c0d3c169105)
